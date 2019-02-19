@@ -1,5 +1,5 @@
 class College:
-    #Parent class describing a College
+    #Parent class describing a College 
     def __init__(self, name, age, contact):
         self.name = name
         self.age = age
