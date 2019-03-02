@@ -1,2 +1,2 @@
 # pythonds
-Code for practice exercises on InteractivePython.org .
+Code for practice exercises on InteractivePython.org.
